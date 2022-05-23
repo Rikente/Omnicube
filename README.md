@@ -14,7 +14,5 @@ I will be hosting a website which will house my cube directory. In addition to t
 At the outset, I will be creating all of the lists by hand and iterating upon them as they receive testing. The stretch goal of this project is to create an application that can create a cube for the user, drawing from either all cards in Magic's history or a provided inventory. This application will allow for any number of design restrictions, such as size, colors, mana value, etc.
 
 My inventory of cards is available at https://deckbox.org/sets/3077523.
-
 My cube lists are available at https://cubecobra.com/user/view/5ecc75f845c26a258c9ea97c.
-
 The Operation Omnicube website will be hosted using AWS, no link yet available.
